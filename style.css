@@ -1,0 +1,18 @@
+h1 {
+    color: #b724b1;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+body {
+    background-color: #dee2c3;
+    padding: 30px;
+}
+
+.class1 {
+    width:500px;
+    height: 500px;
+    background-color: aquamarine;
+    margin: auto; 
+    padding: 30px 80px; 
+}
